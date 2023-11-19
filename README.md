@@ -1,3 +1,2 @@
 # OzanLoonPlugin
-OzanLoonPlugin
-原NyaMisty大佬的Ozan插件格式不支持Loon，对此我进行了格式修改，可用于Loon
+原NyaMisty大佬的Ozan插件格式不支持Loon，我仅仅进行了格式修改，使其可用于Loon
