@@ -1,0 +1,5 @@
+[Script]
+http-request ^https?:\/\/op-prod-tr.ozan.com/api/(oauth/token\?grant_type=pre_verification|users/update-mobile-number) script-path=https://gist.githubusercontent.com/NyaMisty/cfd8ed6ca9fcee7cd6b9dc1efaf27484/raw/ozanfinalfix.js, requires-body = true, max-size=0, debug=1
+
+[MITM]
+hostname = op-prod-tr.ozan.com
